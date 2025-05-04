@@ -1,4 +1,4 @@
-#Maintainer:	Giteeajake <giteeajake@qq.com>
+#Maintainer:	mumi jim <echo "=02bj5yav9Gb0V3bA1Waq9VatVXb" | rev | base64 -d>
 
 pkgname=isd-appimage
 pkgver=v0.5.1
